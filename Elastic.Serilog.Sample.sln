@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elastic.Serilog.Sample", "Elastic.Serilog.Sample\Elastic.Serilog.Sample.csproj", "{1C866E5C-F25A-431F-8312-41259677C259}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CE7CA7F-8332-42F5-AD28-422F19D9A615}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C866E5C-F25A-431F-8312-41259677C259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C866E5C-F25A-431F-8312-41259677C259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C866E5C-F25A-431F-8312-41259677C259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C866E5C-F25A-431F-8312-41259677C259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E371C5-B6CE-4A17-9CDB-966950A25999}
+	EndGlobalSection
+EndGlobal
